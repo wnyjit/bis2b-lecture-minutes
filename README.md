@@ -1,1 +1,0 @@
-# bis2b-lecture-minutes
