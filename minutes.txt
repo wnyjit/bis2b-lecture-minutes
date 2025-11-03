@@ -1,0 +1,835 @@
+these are based on section A's recording / the earlier recording / 08:57 & 16:07, not the very similar but still different 09:57/17:07 recording
+lectures are 08:57 ,,, discussions are 16:07
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 6 monday lecture +=+=+=+=+=+=+=+=
+introduction to course & syll covering - 4
+
+on definition of life - 32
+properties of life - 32
+	order: life is diverse & organized - 33
+	energy and law of thermodynamics,,, life costs / uses a lot of energy - 34
+	growth and development - 37
+	ancestry and evolution - 37
+	regulation / homeostatis - 38
+	reproduction / copy - 40
+	response to stimuli - 41
+		all life responds to external stimuli - 43
+
+smallest life possible? - 44
+	cell are the smallest - 45
+
+ecology: study of how organisms interact w/ word - 46
+	biotic interaction - 46
+	abiotic interaction - 48
+
+evolution - 49
+	how evolution creates diversity - 49
+biodiversity - 50
+
+why we study ecology - 51
++=+=+=+=+=+=+=+= 1 - 6 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 1 - 6 monday discussion +=+=+=+=+=+=+=+=
+lost to time :(
++=+=+=+=+=+=+=+= 1 - 6 monday discusison +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 8 wednesday lecture +=+=+=+=+=+=+=+=
+weather - 6
+climate - 7
+
+weather vs climate examples - 8
+
+atmosphere - 13
+	solar radiation - 14
+		visible light - 14
+	electromagnetic radiation - 17
+	greenhouse gases - 21
+		greenhouse effect example - 22
+
+greenhouse gases - 24
+		how to approach a graph - 25
+	CFC and some history,, Chlorofluorocarbons - 27
+		ozone depletion - 29
+
+	how we get measurements from the past,,, digging up old ice - 32
+
+global warming - 33
+	uneven distribution - 34
+	fires in california - 37
+	melting glaciers - 42
+	ocean levels rising - 43
+			most heat is stored in ocean - 44
+	ocean acidification - 45
+
+representative concentration pathways RCP - 49
++=+=+=+=+=+=+=+= 1 - 8 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 10 friday lecture +=+=+=+=+=+=+=+=
+value of biodiversity - 5
+	market value,,, how much you sell it for - 5
+	ecosystem services,,, if they didn't do it, we'd do it ourself - 6
+	tourism / recreation - 8
+		biodiversity = happiness - 9
+	cultural / intrinsic value - 10
+	
+ways to measuring biodiversity - 13
+	genetic / trait diversity - 14
+		the raw material for evolution - 14
+	species diversity - 15
+	other levels,,, history, ecological roles - 16
+
+quantifying biodiversity - 18
+	you need two things: number of different species present, how many individuals each species has - 18
+	diversity index formula - 20
+
+sampling strategy,,, its hard to get a direct count of every organism in an environment - 33
+	transect - 34
+	quadrat - 35
+	volume census,,, measuring fish - 36
+	camera traps, scat,,, measuring the timid mammal - 37
+		
+	how to know you've sampled enough - 38
+		species area curve - 38
+		rarefaction curve - 39
+
+vicariance,,, geographic seperation - 46
+	penguin example - 49
++=+=+=+=+=+=+=+= 1 - 10 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 13 monday lecture +=+=+=+=+=+=+=+=
+principle of allocation - 5
+what resources do organisms need? - 6
+	protieins - 7
+	nucleic acids - 7
+	carbohydrates - 8
+	lipids - 8
+	
+	key periodic elements - 8
+
+photosynthesis - 9
+	3 things a molecule can do to light,,, pass through, reflect, absorb - 10
+	the photosynthesis process - 11
+	chlorofyll A & B - 13
+
+c3 phosyn - 16
+c4 phosyn - 23
+cam phosyn - 27
+tradeoffs between photosynthesis methods - 30
+
+nitrogen & rhizobium - 35
+	nodules - 37
+phosphorus & mycorrhizal - 38
+
+liebigs law of the minimum - 40
+	house analogy - 42
+
+autotroph & heterotroph - 45
+
+optimal foraging - 48
+	handling time - 49
++=+=+=+=+=+=+=+= 1 - 13 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 1 - 13 monday dicussion +=+=+=+=+=+=+=+=
+optimal foraging continued - 4
+	its more than hanlding time - 5
+
+	generalist vs specialist - 6
+
+tolerance to abiotic factors - 10
+
+fundamental vs realized niche - 12
+
+response to abiotic stress - 16
+	acclimation,,, during the individuals lifetime - 17
+	adaptation,,, over generations - 19
+		root/shoot ratio,,, acclimation - 21
+
+	temperature - 27
+		metabolic rate - 29
+		endotherm vs ectotherm - 31
+		plants and thermal regulation - 35
+
+response to biotic stress,,, predators - 41
+	avoiding detection - 41
+	avoiding capture - 44
+	avoiding consumption - 45
++=+=+=+=+=+=+=+= 1 - 13 monday dicussion +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 15 wednesday lecture +=+=+=+=+=+=+=+=
+life history - 4
+	frog example - 9
+	damsel fly example - 14
+	plant seed example - 17
+	second plant seed example - 25
+	fish example - 38
+
+	r strategist vs k strategist - 43
+		survivorship curve - 47	
+			type 1, type 2, type 3 - 47
++=+=+=+=+=+=+=+= 1 - 15 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 17 friday lecture +=+=+=+=+=+=+=+=
+midterm guideline - 4
+
+population - 8
+	factors that influence population - 9
+		equation - 10
+	closed population - 11
+	instrinsic growth rate,,, little r,,, difference between growth & death rate - 13
+		exponential slope of r - 17
+			Apert math equation - 20
+	how to calculate real population size,,, big N - 23
+
+	does exponential growth exist?,,, "for a period of time" - 36
+		populations cannot grow forever - 39
+
+	which things impact the growth of species - 39
+		density independent controls,,, "commonly abiotic" - 40
+		density dependent controls,,, "commonly biotic" - 41
+
+	logistic growth & equation - 43
+
+	r vs k strategist - 48
+		r,,, exponential curve,,, rapid rise & decline - 49
+		k,,, logarithm curve - 49
++=+=+=+=+=+=+=+= 1 - 17 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 20 monday lecture +=+=+=+=+=+=+=+=
+nothing :) holiday
++=+=+=+=+=+=+=+= 1 - 20 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 1 - 20 monday discussion +=+=+=+=+=+=+=+=
+nothing :) holiday
++=+=+=+=+=+=+=+= 1 - 20 monday discussion +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 22 wednesday lecture +=+=+=+=+=+=+=+= (before midterm 1)
+midterm room assignments - 4	
+
+life tables - 6
+	survivorship - 9
+		type 1 survivorship vs type 2 survivirship vs type 3 survivorship - 11
+		r strategist vs k stragetist - 14
+	fecundity - 16
+	net reproductive rate - 18
+	x*l(subx)*m(subx) - 21
+	generation time - 22
+
+population growth - 35
+
+demographic transition - 41
+	population pyramids - 43
++=+=+=+=+=+=+=+= 1 - 22 wednesday lecture +=+=+=+=+=+=+=+= (before midterm 1)
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 24 friday lecture +=+=+=+=+=+=+=+= (before midterm 1)
+c3 plant vs c4 plant vs cam plant - 6
+	c3 - 6
+	c4 - 8
+	cam - 10
+
+	problem 1, basic photosyn process- 14
+	problem 2, c4 plant strategy - 19
+
+life table - 21
+	problem 3, survivorship curve - 24
+	problem 4, how to read life table  - 29
+
+problem 5 survivorship vs offspring count - 40
+
+problem 6, prey profitability - 46
+
+problem 7, itioparity vs semelparity - 50
+
+how to study - 51
++=+=+=+=+=+=+=+= 1 - 24 friday lecture +=+=+=+=+=+=+=+= (before midterm 1)
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 27 monday lecture +=+=+=+=+=+=+=+= (before midterm 1)
+stratifications - 6
+fossil distribution - 8
+	the implication that species could change - 11
+
+catastrophism - 11
+uniformitarianism - 16
+
+type specimen - 20
+
+plant & animal breeding - 28
+	pigeon example - 31
+	basics of evolution - 35
+
+where do we start with evolution? - 45
++=+=+=+=+=+=+=+= 1 - 27 monday lecture +=+=+=+=+=+=+=+= (before midterm 1)
+
++=+=+=+=+=+=+=+= 1 - 27 monday discussion +=+=+=+=+=+=+=+= (midterm 1)
+watch everyone take midterm 1 :)
++=+=+=+=+=+=+=+= 1 - 27 monday discussion +=+=+=+=+=+=+=+= (midterm 1)
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 29 wednesday lectue +=+=+=+=+=+=+=+= (after midterm 1)
+darwins theory - 6
+
+conditions for natural selection - 13
+	relative fitness - 16
+	agent of selection - 19
+
+example 1,,, elephant tusks - 40
+exaple 2,,, spirit bears - 47
++=+=+=+=+=+=+=+= 1 - 29 wednesday lectue +=+=+=+=+=+=+=+= (after midterm 1)
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 1 - 31 friday lecture +=+=+=+=+=+=+=+= 
+(holy fuck this lecture was so fast)
+phenotypic trait,,, gingers - 7
+
+transcription, translation - 12
+
+structure of DNA - 14
+	DNA bases, A C G T - 14
+	dna compliment - 15
+
+RNA - 18
+	rna transcript - 18
+	splicing - 19
+	messenger RNA / mRNA - 19
+
+triplet or codon - 25
+
+protein table - 28
+
+transfer rna / tRNA - 30
+
+mutations are not "bad" - 38
+	mutation examples - 38
+	what made the albino bear & the ginger - 46
++=+=+=+=+=+=+=+= 1 - 31 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 3 monday lecture +=+=+=+=+=+=+=+= (i fucking hate the way she teaches,, just a blur of information)
+gene vs allele vs variation - 6
+
+we all have same number of chromosomes - 9
+	we are different at the allele level - 11
+
+diploid - 14
+
+the dna will expand to be read - 15
+
+we have 30k genes spread in our 23 chromosomes - 18
+
+A gene / A locus - 22
+
+albino bear example - 26
+
+how alleles influence phenotype - 38
+
+meiosis - 48
++=+=+=+=+=+=+=+= 2 - 3 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 2 - 3 monday discussion +=+=+=+=+=+=+=+= 
+mitosis vs meiosis - 4
+	meiosis example - 7
+
+mendels law - 18
+	more about mendel - 19
+		darwin was so real for this - 20
+	filial(f1) generation - 22
+	mendels crossing hypothesis - 25
+
+punnet square - 28
+	test crosses - 30
+
+gamete counts examples - 35
+	genotype count example - 40
+
+number of possible genotype formula - 46
+
+crossing over - 50
+	when are they more likely to break? - 52
++=+=+=+=+=+=+=+= 2 - 3 monday discussion +=+=+=+=+=+=+=+= 
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 5 wednesday lectue +=+=+=+=+=+=+=+= 
+crossing over - 6
+	"major factor is space" - 10
+
+mutations & allele - 11
+
+impact of crossing out,,,, deletion, duplication, inversion - 13
+
+pleiotrophy - 17
+
+epistatis - 21
+
+beaks of finches example - 26
+
+fly example - 30
+
+continuous/additive/metric/quantitative/dosage dependent trait - 32
+	discrete/category - 34
+
+why is the average average? - 38
+
+discrete vs continuous example - 43
+
+population genetics - 48
++=+=+=+=+=+=+=+= 2 - 5 wednesday lectue +=+=+=+=+=+=+=+= 
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 7 friday lecture +=+=+=+=+=+=+=+=
+modern synthesis - 6
+
+mendelian genetics - 7
+
+hardy weinberg equilibrium - 9
+	rules - 10
+
+null hypothesis - 11
+frequency - 14
+equilibrium - 15
+
+frequency & genotype & allele &  gene pool example - 18
+	"this formula you need to know in your sleep" - 26
+	gene pool - 39
+
+get population from frequency - 46
++=+=+=+=+=+=+=+= 2 - 7 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 10 monday lecture +=+=+=+=+=+=+=+=
+hardy weinberg equilibrium - 6
+
+allele frequency genotype frequency equation - 10
+	heterozygote deficiency - 13
+
+key steps to population genetics - 14
+
+assumption vs violation - 15
+
+equilibrium in depth
+	1. genetic drift,,,smaller sample = less proper representation - 16
+		founder effect - 18
+		when genetic drift matters - 20
+			founder effect example - 23
+				its not related to natural selection - 28
+	2. migration / gene flow - 30
+	3. no mutations -  36
+		"violated the least of the time" - 40
+	4. random mating - 41
+		positive assortive mating & self fertilization example - 42
+	5. no natural selection - 49
+
+measuring heritability - 50
++=+=+=+=+=+=+=+= 2 - 10 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 2 - 10 monday discussion +=+=+=+=+=+=+=+=
+directional selection - 8
+	selection can change direction - 16
+
+stabilizing selection - 19
+	frequency vs actual value - 20
+	continuous trait example - 22
+	discrete trait example - 24
+
+disruptive/divergent selection - 30
+	frequency vs actual value - 32
+	dungbeetle example - 35
+
+frequency dependent selection - 44
+
+sexual selection - 49
+	inter vs intra - 50
++=+=+=+=+=+=+=+= 2 - 10 monday discussion +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 12 wednesday lecture +=+=+=+=+=+=+=+=
+practice problem 1,,, calculate expected number of heterozygotes - 6
+	does observed match expected "its a deficiency" - 12
+		why? - 15
+
+practice problem 2.1,,, what is frequency of allele in population - 20
+
+practice problem 2.2,,, expected frequencies of genotypes under hardy weinberg equilibrium - 24
+
+practice problem 3,,, founder effect mice population - 34
+
+practice problem 4,,, calculate allele frequency - 36
+
+practice problem 5,,, determine type of selection - 39
+
+practice problem 6,,, hardy weinberg equilibrium - 42
+
+practice problem 7,,, phenotypes of flies - 45
+
+practice problem 7,,, determine type of selection - 51
++=+=+=+=+=+=+=+= 2 - 12 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 14 friday lecture +=+=+=+=+=+=+=+=
+lineage - 5
+
+four possible fates of a lineage - 10
+	stasis - 11
+	anagenesis - 11
+	extinction - 12
+	cladogenesis - 12
+		stasis example - 15
+
+defining species - 22
+	morphological concept - 22
+	biological concept - 23
+	lineage concept - 28
+
+	biological concept 2 - 29
+
+gene flow question 1 - 33
+gene flow question 2 - 35
+
+cladogenesis - 44
++=+=+=+=+=+=+=+= 2 - 14 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 17 monday lecture +=+=+=+=+=+=+=+=
+holiday :)
++=+=+=+=+=+=+=+= 2 - 17 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 2 - 17 monday discussion +=+=+=+=+=+=+=+=
+holiday :)
++=+=+=+=+=+=+=+= 2 - 17 monday discussion +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 19 wednesday lecture +=+=+=+=+=+=+=+=
+reproductive isolation mechanicms - 7
+		hybrids species - 8
+	prezyogtic (6 kinds) - 9
+		geographic isolation - 9
+			good species - 10
+			allopatric, parapatric, sympatric population - 11
+		ecological isolation - 14
+		behavioral isolation - 20
+		temporal isolation - 23
+			question 1 - 28
+				"are species concsious that they dont want gene flow?" - 33
+		mechanical isolation - 36
+			unwarranted spider appreciation - 38
+		gametic incompatibility - 42
+
+	postzygotic (3 kinds) - 44
+		hybrid inviability - 45
+		hybrid sterility - 46	
+		hybrid breakdown - 48		
++=+=+=+=+=+=+=+= 2 - 19 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 21 friday lecture +=+=+=+=+=+=+=+=
+examples of prezygotic - 6
+
+problem 1,,, what kind of isolation is this? - 9
+problem 2,,, what kind of isolation is this? - 11
+
+allopatric, parapatric, sympatric population - 12
+
+"good species" - 13
+hybrid zone - 14
+	example of frogs in europe - 16
+	problem 3,,, what will it be in 1,000 years? - 18
+
+red wolf and hybrids becoming stable - 23
+
+ring speices - 24
+	
+cladogenesis - 29
+	problem 4,,, who is closest related to who? - 37
+	problem 5,,, who is closest related to who? - 39
++=+=+=+=+=+=+=+= 2 - 21 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 24 monday lecture +=+=+=+=+=+=+=+=
+someone fucked this one up,,, first 10 minute gone :^(
+
+fundamental, realized niche - 0
+
+species interactions, plus minus + - - 2
+
+symbiosis vs mutualism,,, interaction between two species who live close to one another - 5
+
+competition - 7
+	intraspecific interspecific - 8
+
+competetive exclusion - 12
+	problem 1,2,3,4 - 23
+
+resource partitioning - 33
++=+=+=+=+=+=+=+= 2 - 24 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 2 - 24 monday discussion +=+=+=+=+=+=+=+=
+watch yourself take the midterm
++=+=+=+=+=+=+=+= 2 - 24 monday discussion +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 26 wednesday lecture +=+=+=+=+=+=+=+=
+mutualism - 6
+	commensialism - 6
+	obligate - 8
+	facultative - 22
+	paratisism - 29
+	defense mutualism - 31
+
+succession - 42
++=+=+=+=+=+=+=+= 2 - 26 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 2 - 28 friday lecture +=+=+=+=+=+=+=+=
+primary succession - 5
+secondary succession - 6
+
+predation defense - 11
+	mimicry - 12
+		batesian mimicry - 12
+		mullerian mimicry - 14
+
+lotka volterra model - 24
+	relationship graphed - 33
+
+keystone species - 50
++=+=+=+=+=+=+=+= 2 - 28 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 3 - 3 monday lecture +=+=+=+=+=+=+=+=
+keystone species - 4
+foundation species - 6
+ecosystem engineer - 7
+
+foundation species example - 8
+ecosystem engineer example - 10
+
+practice question 1 - 12
+
+ultimate energy source,,, the sun - 17
+what is energy - 19
+
+NPP,,, net primary productivity - 22
+GPP,,, gross primary productivity - 22
+
+trophic level - 26
+
+energy & biomass relation - 30
+
+why is the ocean so biodiverse? - 37
+
+energy efficiency - 37
+
+how many trophic levels can an ecosystem have? - 46
++=+=+=+=+=+=+=+= 3 - 3 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 3 - 3 monday discussion +=+=+=+=+=+=+=+=
+botttom up top down effects - 4
+
+biomes of the world - 12
+
+example of biome - 16
+
+tropical biodiversity - 20
+
+tropical mountain pass - 28
+	thermogeneralist - 30
+
+desert - 33
+
+temperate grassland - 37
+
+mediterranean - 40
+
+diciduous forest - 42
+
+boreal forest - 44
+
+tundra - 49
++=+=+=+=+=+=+=+= 3 - 3 monday discussion +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 3 - 5 wednesday lecture +=+=+=+=+=+=+=+=
+energy flow ,,, nutrient cycle - 9
+
+fixation - 11
+	nitrogen fixation - 13
+	biological fixation - 19
+	atmospheric fixation - 25
+	industrial fixation - 27
+
+how does nitrogen affect my life - 30
+	runoff,,, ocean deadzone - 35
+
+how does phosphorous affect my life - 40
+
+water cycles - 45
+	how does water cylce affect my life - 50
++=+=+=+=+=+=+=+= 3 - 5 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 3 - 7 friday lecture +=+=+=+=+=+=+=+=
+primary productivity - 7
+carbon fixation respiration - 8
+
+ocean productivity - 15
+	upwelling - 16
+	red tide - 18
+
+c pools - 24
+c fluxes - 25
+
+fiber and why we eat it - 33
+
+fosil fuels,,,, carbon that isn't cycling - 36
+
+sequestration,,,, put carbon from the atmosphere into storage - 38
+	green vs blue vs teal carbon - 42
+	ocean - 43
++=+=+=+=+=+=+=+= 3 - 7 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 3 - 10 monday lecture +=+=+=+=+=+=+=+=
+micrphone is here now - 11
+luca - 11
+domain - 12
+classification - 13
+	binomial nomenclature - 14
+	genus name - 15
+	species epithet - 15
+	what do to about closely related species - 18
+	plurals - 20
+	nesting levels / classification scheme ,,, linnaeus - 22
+		taxon - 29
+
+domains of life - 30
+	archaea - 31
+	how do bacteria and archaea diversity - 34
+	eukarya - 38
+	timeline - 40
++=+=+=+=+=+=+=+= 3 - 10 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 3 - 10 monday discussion +=+=+=+=+=+=+=+=
+smybiosis - 6
+fucking bullshit honestly
+
+multi cellularity - 20
+
+cambrian explosion - 26
+	where did they come from - 31
+
+timeline - 37
+
+extinctions & also mammals talked about - 39
+	end ordovician - 39
+	end permian - 43
+	kt boundry,,,, cretaceous tertiary boundary - 48
+		how we know the dust covered the planet - 49
++=+=+=+=+=+=+=+= 3 - 10 monday discussion +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 3 - 12 wednesday lecture +=+=+=+=+=+=+=+=
+anthropocene,,, the impact of humans - 3
+
+earth timeline - 5
+human timeline - 6
+	extinct vs extant - 12
+
+human migration history - 13
+
+race is a social construct - 25
+
+hunting and fishing - 27
+genetic diversity - 31
+	low diversity is bad - 35
+
+species diversity,,, preserving numbers - 36
+
+ecosystem diversity - 38 
+
+approaches to conversion - 41
+
+threats to biodiversity - 45
+
+climate change - 51
++=+=+=+=+=+=+=+= 3 - 12 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 3 - 14 friday lecture +=+=+=+=+=+=+=+=
+thank yous - 5
+
+key take aways - 8
+
+mic leaves - 28
+mic comes back - 36
++=+=+=+=+=+=+=+= 3 - 14 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
